@@ -1,4 +1,4 @@
-# Score Counter App
+# BasketBall ScoreBoard App
 
 The Score Counter app is a simple web application that allows users to keep track of scores for a home and away team. It provides buttons to increment the scores by different values and a button to reset the scores to zero.
 
